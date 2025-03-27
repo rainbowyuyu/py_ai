@@ -1,0 +1,32 @@
+# 基本的
+jupyter
+matplotlib
+
+# matplotlib的优化配色方案
+seaborn
+
+# 前端页面的可视化
+redis
+bokeh
+
+plotly
+
+# 下面这些是动态数据分析的qt界面库
+pyqtgraph
+pyqt6
+pyside6
+
+# 3d支持
+pyopengl
+
+# 网页前端支持
+h5py
+
+# 快速安装工具
+setuptools
+
+# 神经网络
+networkx
+
+# 柱状图
+pyecharts
